@@ -1,7 +1,0 @@
-Cara Menjalankan Game:
-1. Buka folder Internet Cafe Simulator v12.11.2019
-2. Jalankan file Internet Cafe Simulator.exe dengan cara klik kanan lalu pilih Run as Adminstrator
-3. Jika terdapat error atau missing program. Buka folder _Redist, lalu install 3 program yang ada di dalamnya.
-4. Done!
-
-Jangan lupa matikan antivirus terlebih dahulu
