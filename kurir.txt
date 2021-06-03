@@ -1,7 +1,14 @@
 tambah kurir
 JNE
 POS
+<<<<<<< HEAD
 update dari github
 Update Feri
 update dari github
 tanggal 11 Mei 2021
+=======
+edit dari github
+edit dari Windows
+TIKI update dari windws
+Sicepat update dari Mac
+>>>>>>> 9c1a6eb4452a9728b4dbd6c906a1512573b67440
